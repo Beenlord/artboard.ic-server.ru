@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /core/
+Disallow: /design
+Disallow: /images
+Disallow: /moduls
+
+Crawl-delay: 0.5
+Host: https://artboard.it-reu.ru
+Sitemap: https://artboard.it-reu.ru/sitemap.xml
